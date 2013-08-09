@@ -24,6 +24,7 @@ import java.util.Locale;
 import java.util.Set;
 
 import me.happypikachu.SimpleCarts.listeners.SimpleCartsBlockListener;
+import me.happypikachu.SimpleCarts.listeners.SimpleCartsPlayerListener;
 import me.happypikachu.SimpleCarts.listeners.SimpleCartsVehicleListener;
 import me.happypikachu.SimpleCarts.util.Localization;
 
@@ -94,6 +95,7 @@ public class SimpleCarts extends JavaPlugin {
 		getCommand("sc").setExecutor(new SimpleCartsCommandExecutor(this));
 		getServer().getPluginManager().registerEvents(new SimpleCartsBlockListener(this), this);
 		getServer().getPluginManager().registerEvents(new SimpleCartsVehicleListener(this, econ), this);
+		getServer().getPluginManager().registerEvents(new SimpleCartsPlayerListener(this, econ), this);
 	}
 	
 	@Override
