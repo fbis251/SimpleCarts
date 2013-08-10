@@ -35,8 +35,10 @@ public class Localization {
 			return "MrCayke";
 		} else if (code.replaceAll("_", "").equalsIgnoreCase("frFR")) {
 			return "Warzouz";
-		} else if (code.replaceAll("_", "").equalsIgnoreCase("ruRU")) {
-			return "fablerion";
+        } else if (code.replaceAll("_", "").equalsIgnoreCase("ruRU")) {
+            return "fablerion";
+        } else if (code.replaceAll("_", "").equalsIgnoreCase("plPL")) {
+            return "Bartolus99";
 		}
 		return "Missingno";
 	}
@@ -45,7 +47,8 @@ public class Localization {
 		if (code.replaceAll("_", "").equalsIgnoreCase("deDE")
 				|| code.replaceAll("_", "").equalsIgnoreCase("enUS")
 				|| code.replaceAll("_", "").equalsIgnoreCase("esES")
-				|| code.replaceAll("_", "").equalsIgnoreCase("frFR")
+                || code.replaceAll("_", "").equalsIgnoreCase("frFR") 
+                || code.replaceAll("_", "").equalsIgnoreCase("plPL")
 				|| code.replaceAll("_", "").equalsIgnoreCase("ruRU")) {
 			return true;
 		}

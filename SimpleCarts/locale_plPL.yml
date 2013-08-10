@@ -1,0 +1,67 @@
+ALTLANG = "Dziekujemy %s za polskie tlumaczenie!"
+
+CARTNULL = "Nie jestes w wagoniku."
+
+CARTPUNCH = "Kliknij na wagonik lewym przyciskiem w strone, w ktora chcesz jechac."
+
+CMD = "Wpisz %s aby otrzymac komendy."
+
+CMDBLOCKS = "Zobacz sterujace bloki przez ID."
+
+CMDDEBUG = "Przelacz powiadomienia debugowania."
+
+CMDEJECT = "Zmus wyjscie z wagonika."
+
+CMDHELP = "Wykaz komend."
+
+CMDLANG = "Zmien jezyk."
+
+CREATEBOOSTER = "Utworzyles Przyspieszacz!"
+
+CREATEBOUNCER = "Utworzyles Skoczek!"
+
+CREATEBRAKE = "Utworzyles Hamulec!"
+
+CREATEEJECTOR = "Utworzyles Wyrzutnik!"
+
+CREATEELEVATOR = "Utworzyles polowe Windy!"
+
+CREATEINTERSECTION = "Utworzyles Skrzyzowanie!"
+
+CREATESTATION = "Utworzyles stacje!"
+
+DENYCONSOLE = "Ta komenda nie moze zostac uzywa w konsoli."
+
+DENYLANGUAGE = "Ta komenda nie jest dostepna w twoim jezyku."
+
+NEWLANG = "Jezyk zostal zmieniony na %s!"
+
+NOTIFICATIONSDISABLED = "Powiadomienia wylaczone dla %s."
+
+NOTIFICATIONSENABLED = "Powiadomienia wlaczone dla %s."
+
+NOTSOLID = "%s ID nie jest staly. Sprawdz konfiguracje!"
+
+PLAYERKICK = "Wyrzucony za blokowanie wagonika %s."
+
+PLUGINDESCRIPTION = "Uproszczona funkcjonalno?? wagoników dla serwerow Bukkit."
+
+PLUGINDISABLED = "(Dodatek jest wlaczony na tym swiecie.)"
+
+PLUGINENABLED = "(Dodatek jest wylaczony na tym swiecie.)"
+
+SPEEDHIGH = "Pomnazacz predkosci jest wiekszy niz 500. Sprawdz konfiguracje!"
+
+TITLEBLOCKS = "%s Blokow sterowania:"
+
+TITLEHELP = "%s Komendy:"
+
+VAULTCHARGE = "Zaplaciles %s."
+
+VAULTDISABLED = "Korzystanie z Vault dla economy jest wylaczone."
+
+VAULTENABLED = "Korzystanie z Vault dla economy jest wlaczone."
+
+VAULTERROR = "Wystapil blad: %s."
+
+VAULTNOTIFY = "Bedzie Cie to kosztowalo %s."
