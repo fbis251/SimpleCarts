@@ -1,0 +1,14 @@
+name: SimpleCarts
+version: @VERSION@
+description: Simplified Minecart functionality for Bukkit servers.
+author: HappyPikachu
+website: http://dev.bukkit.org/server-mods/simplecarts/
+
+main: me.happypikachu.SimpleCarts.SimpleCarts
+softdepend: [Vault]
+
+commands:
+  sc:
+    aliases: simplecarts
+    description: Displays information about SimpleCarts.
+    usage: /<command> [args]
